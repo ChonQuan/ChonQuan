@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChonQuan
-- 👀 I’m interested in QT/C++, python.
-- 🌱 I’m currently learning QT/C++ python
+- 👀 I’m interested in C++, QT, android.
+- 🌱 I’m currently learning C++, QT, android.
 
 <!---
 ChonQuan/ChonQuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
